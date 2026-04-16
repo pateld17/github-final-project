@@ -1,0 +1,25 @@
+Apache License 2.0
+The Apache License 2.0 is a permissive open-source software license published by the Apache Software Foundation in January 2004. It allows users broad freedom to use, modify, and distribute software while ensuring attribution and protection for contributors through clear copyright and patent terms. Its clarity and compatibility make it one of the most widely adopted open-source licenses.
+
+Key facts
+Author: Apache Software Foundation
+
+Version released: January 2004
+
+License type: Permissive, non-copyleft
+
+Patent grant: Explicitly included
+
+Common uses: Android, Apache HTTP Server, TensorFlow, and other open-source projects
+
+Scope and permissions
+The license grants anyone the right to freely use, modify, and distribute licensed software in both source and binary forms. It requires preservation of the license text, notices, and a “NOTICE” file that documents attributions. Users may include the software in proprietary products without disclosing their own source code, provided they comply with attribution and notice obligations.
+
+Patent and liability terms
+A key innovation of Apache License 2.0 is its express patent grant, which prevents contributors from suing users over patent claims related to the software. If a licensee initiates patent litigation alleging infringement, their rights under the license are automatically terminated. The software is distributed “as is,” without warranty, emphasizing user responsibility for its use.
+
+Compatibility and adoption
+The license is GPLv3-compatible, enabling code under both licenses to be combined legally. Its simplicity, global scope, and corporate-friendliness have led to adoption across major ecosystems, including projects by Google, Microsoft, and Amazon. The permissive model has encouraged commercial collaboration while maintaining open-source transparency.
+
+Applying the license
+Developers include the full text of the license in their distribution and a short header in each source file referencing it. A “NOTICE” file should accompany the code to record attribution and third-party notices, ensuring continued recognition of original authors and contributors
